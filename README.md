@@ -7,7 +7,7 @@
 
 ## Table of Contents
 - [GitHub](#github)
-  - [Basic Login Level A](#ignore-whitespace)
+  - [Basic Login Level A](#basic-login-level-a)
   - [Basic Login Level B](#adjust-tab-space)
   - [Basic Login Level C](#commit-history-by-author)
   - [Basic Login Level D](#cloning-a-repository)
