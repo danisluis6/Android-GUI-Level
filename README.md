@@ -31,8 +31,8 @@ Then it's interesting to learn and practise with partner.
   <script src="jquery.hideShow.min.js"></script>
 ```
 
-## GitHub
-# ## Basic Login Level A
+## Basic Login Level A
+
 
 
 
