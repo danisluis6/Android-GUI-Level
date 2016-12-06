@@ -32,7 +32,7 @@ Then it's interesting to learn and practise with partner.
 ```
 
 ## GitHub
-### Ignore Whitespace
-fdsjkfsd
+### Basic Login Level A
+
 
 
